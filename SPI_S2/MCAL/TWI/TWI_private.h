@@ -1,10 +1,7 @@
-/*************************************************************************/
-/* !File Name:         TWI_private.h                                     */
-/* !Layer    :         MCAL                                              */
-/* !Author   :         Abdullah M. Abdullah                              */
-/* !Date     :         2 SEP, 2021                                       */
-/* !Version  :         v1.0                                              */
-/*************************************************************************/
+////////***************^~^**************************//////
+////////*********Name:NOURELDEEN*********************//////
+////////*********PROJECT_NAME:SMART_HOME*************//////
+///////*GITHUB : https://github.com/noureldeen8647/Graduation_Project_G3 ****///////
 
 #ifndef TWI_PRIVATE_H_
 #define TWI_PRIVATE_H_
